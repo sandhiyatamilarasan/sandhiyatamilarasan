@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Sandhiya
 
-<!--
-**sandhiyatamilarasan/sandhiyatamilarasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Artificial Intelligence and Data Science Student
 
-Here are some ideas to get you started:
+## About Me
+I am a student interested in software development, Python, and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am learning Python, Java, DSA, SQL, and GitHub.
+
+## Skills
+- Python
+- Java
+- SQL
+- Git & GitHub
+- Data Analytics
+
+## Projects
+
+### Skin Disease Prediction System
+Machine Learning project for skin disease prediction using image data.
+
+### Morse Code using FPGA
+Implemented Morse Code using Verilog and FPGA simulation.
+
+## Currently Learning
+- Python
+- Java
+- Data Structures and Algorithms
+- SQL
+- Software Development
+
+## Connect With Me
+GitHub: https://github.com/sandhiyatamilarasan
